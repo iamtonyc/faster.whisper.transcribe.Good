@@ -1,0 +1,4 @@
+model/
+faster_whisper/
+*.m4a
+transcribe.txt
